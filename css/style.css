@@ -1,0 +1,33 @@
+.navbar-brand .img-responsive{
+    height: 150%;
+    width: auto;
+
+}
+
+*{
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+html{
+    height: 100%;
+}
+body{
+    position: relative;
+    min-height: 100%;
+    padding: 5px 10px 5px 10px;
+    margin-bottom: 10px;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    left: 5;
+    right: 5;
+    top : 5;
+    padding-top: 5px;   
+}
+
+.panel-primary form{
+    padding: 10px;
+}
