@@ -14,7 +14,7 @@
 
     <div class="panel panel-primary">
         <div class="panel-heading">
-            <h2 class="panel-title">Stage</h2>
+            <h2 class="panel-title" id="Titre1">Stage</h2>
         </div>
         <div class="panel-body">
             <h4>Qu'est ce qu'un stage ?</h4>
@@ -44,7 +44,7 @@
 
     <div class="panel panel-primary">
         <div class="panel-heading">
-            <h3 class="panel-title">Étudiant</h3>
+            <h3 class="panel-title" id="Titre2">Étudiant</h3>
         </div>
         <div class="panel-body">
             <h4>L'entreprise peut-elle déduire de la rémunération la prise en charge de frais de restauration, de transport ou autres avantages ?</h4>
@@ -95,7 +95,7 @@
 
     <div class="panel panel-primary">
         <div class="panel-heading">
-            <h3 class="panel-title">Tuteur de stage</h3>
+            <h3 class="panel-title" id="Titre3">Tuteur de stage</h3>
         </div>
         <div class="panel-body">
             <h4>Comment est choisi le tuteur de stage ?</h4>
@@ -112,7 +112,7 @@
 
     <div class="panel panel-primary">
         <div class="panel-heading">
-            <h3 class="panel-title">Professeur référent</h3>
+            <h3 class="panel-title" id="Titre4">Professeur référent</h3>
         </div>
         <div class="panel-body">
             <h4>Comment est choisi l'enseignant référent ?</h4>
@@ -134,7 +134,7 @@
 
     <div class="panel panel-primary">
         <div class="panel-heading">
-            <h3 class="panel-title">Rapport de stage</h3>
+            <h3 class="panel-title" id="Titre5">Rapport de stage</h3>
         </div>
         <div class="panel-body">
             <h4>Comment rédiger un rapport de stage ?</h4>
@@ -209,7 +209,7 @@
 
     <div class="panel panel-primary">
         <div class="panel-heading">
-            <h3 class="panel-title">Sources</h3>
+            <h3 class="panel-title" id="Titre6">Sources</h3>
         </div>
         <div class="panel-body">
             <ul>
